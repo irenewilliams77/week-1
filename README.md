@@ -1,7 +1,8 @@
 # week-1
 Irene williams
 # Irene Williams
-name | age
------------- | -------------
-irene | 43
-white | black
+:lol:
+{google}(google.com)
+'code'
+
+this is *fancy*
